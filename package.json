@@ -1,10 +1,10 @@
 {
-  "name": "nodemon",
+  "name": "c",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "connect": "^3.5.0",
+    "mongoose": "^4.6.3",
     "nodemon": "^1.10.2"
   },
   "devDependencies": {},
@@ -12,5 +12,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/200210374/comp2068Lab3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/200210374/comp2068Lab3/issues"
+  },
+  "homepage": "https://github.com/200210374/comp2068Lab3#readme",
+  "description": ""
 }

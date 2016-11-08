@@ -1,0 +1,49 @@
+//create an array
+
+
+
+
+
+var food = ['Hamburgers', 'Pasta' ,'Bagels'];
+
+console.log(food[0]);
+
+
+// display all the food items each on a new line
+
+for (var i =0; i < food.length; i++)  {
+console.log[i];
+  
+  
+  
+  
+}
+for (f in food) {
+  
+  console.log(food[f]);
+  
+}
+
+
+// display this food, food1, food2, food3
+
+
+console.log('food: ' + food);
+
+
+
+for (var i =0; i < food.length; i++)  {
+console.log[i][0];
+
+
+
+
+for (var j =0; j < food.1; j++)  {
+console.log[i][j];
+
+
+for (var c = 0; o < food.2; c++) {
+console.log[i][c];
+
+
+}
